@@ -1,0 +1,75 @@
+- title: About
+  url: "/"
+  side: left
+
+#- title: Getting Started
+#  url: "/getting-started/"
+#  side: left
+
+- title: "Services"
+  url: "/pages/services/"
+  side: left
+  dropdown:
+  - title: "CAMPUS PROGRAMS/MODULES"
+    url: "/pages/services/campus/"
+  - title: "CORPORATE PROGRAMS/MODULES"
+    url: "/pages/services/corporate/"
+  - title: "COMMUNITY PROGRAMS/MODULES"
+    url: "/pages/services/community/"
+  - title: "CAMPUS CAMP for OFWs Dependents"
+    url: "/pages/services/campus-camp/"
+#  - title: "Post-Right-Sidebar"
+#    url: "/design/post-right-sidebar/"
+#  - title: "Page Full-Width"
+#    url: "/design/page-fullwidth/"
+#  - title: "Blog-Page"
+#    url: "/blog/"
+#  - title: "Video"
+#    url: "/design/video/"
+#  - title: "Gallery"
+#    url: "/design/gallery/"
+#  - title: "Portfolio"
+#    url: "/design/portfolio/"
+
+#- title: "Header Styles"
+#  url: "/headers/"
+#  side: left
+#  dropdown:
+#  - title: "Header with Full-Width-Image"
+#    url: "/design/header-full-width-image/"
+#  - title: "Header with Image and Pattern"
+#    url: "/design/header-image-pattern/"
+#  - title: "Header with image and color"
+#    url: "/design/header-image-color/"
+#  - title: "Header Only With Logo"
+#    url: "/design/header-logo-only/"
+#  - title: "Header With Text"
+#    url: "/design/header-with-text/"
+#  - title: "No Header"
+#    url: "/design/no-header/"
+#  - title: "No Header but Image"
+#    url: "/design/no-header-but-image/"
+
+#- title: Documentation
+#  url: "/documentation/"
+#  side: left
+#  dropdown:
+#  - title: "Changelog"
+#    url: "/changelog/"
+#  - title: "Roadmap"
+#    url: "/roadmap/"
+
+- title: Events
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Events Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
